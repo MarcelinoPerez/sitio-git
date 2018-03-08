@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Imagen no v\u00e1lida"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Imagen de %s no cumple los requisitos m\u00ednimos de tama\u00f1o"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Imagen cambia de tama\u00f1o para adaptarse a las dimensiones m\u00e1ximas permitidas"
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Max Dimensiones de la imagen"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Opcionalmente introducir la anchura y \/ o altura de im\u00e1genes cargadas max. Si se especifica, las im\u00e1genes ser\u00e1n redimensionadas al tiempo de carga cuando superen la anchura o altura m\u00e1xima. El cambio de tama\u00f1o se realiza en tiempo de carga, por lo que no afectar\u00e1 a las im\u00e1genes en el sistema, o las im\u00e1genes a\u00f1adido a trav\u00e9s de la API."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Introduzca el valor en n\u00famero de p\u00edxeles o dejar en blanco para ning\u00fan l\u00edmite."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Anchura m\u00e1xima de las im\u00e1genes subidas"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Altura m\u00e1xima de las im\u00e1genes subidas"
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Dimensiones de imagen m\u00ednimas"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opcionalmente introducir la anchura y \/ o altura de im\u00e1genes cargadas m\u00ednimo. Si se especifica, las im\u00e1genes que no cumplan con estos m\u00ednimos ser\u00e1n rechazados."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Anchura m\u00ednima de las im\u00e1genes subidas"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Altura m\u00ednima para las im\u00e1genes subidas"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Im\u00e1genes"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Uno o m\u00e1s archivos de imagen (ordenable)"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Recortar"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Variaciones"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Dimensiones"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Tama\u00f1o del archivo"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "arrastrar y soltar nuevas im\u00e1genes arriba"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Este campo de im\u00e1genes puede tener cambios no guardados que podr\u00edan perderse despu\u00e9s de esta acci\u00f3n. Guarda antes de recortar o haz doble clic en el bot\u00f3n."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "suelta una imagen para reemplazar"
+        },
+        "f0823f4faa69306cc75fd14c8e5e38e3": {
+            "text": "las miniaturas se volver\u00e1n a crear en guardar"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Hay im\u00e1genes de vista previa en miniatura de mayor \/ baja calidad arriba - marca esta casilla para volver a crearlas."
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Imagen de %s excede el tama\u00f1o m\u00e1ximo"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "No editable"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Modo cuadr\u00edcula en imagen predeterminada"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "En el administrador, la lista de im\u00e1genes aparecer\u00e1 en este modo de forma predeterminada. El usuario puede cambiarlo en cualquier momento haciendo clic en los iconos en la esquina superior derecha del campo."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Si has utilizado recientemente este campo de im\u00e1genes, tendr\u00e1s que borrar las cookies antes de ver cualquier cambio en esta configuraci\u00f3n."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Parrilla cuadrada de im\u00e1genes"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Parrilla proporcional de im\u00e1genes"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Lista vertical"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "\u00bfRechazar im\u00e1genes que excedan las dimensiones m\u00e1ximas?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Si se selecciona, las im\u00e1genes que excedan el ancho \/ altura m\u00e1ximo ser\u00e1n rechazadas en lugar de redimensionadas."
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "\u00bfIntercambiar dimensiones m\u00ednimas \/ m\u00e1ximas para im\u00e1genes de retrato?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Si se selecciona, las dimensiones de anchura \/ altura m\u00ednima y anchura \/ altura m\u00e1ximas se intercambiar\u00e1n para las im\u00e1genes de retrato para adaptarse a la relaci\u00f3n de aspecto diferente."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Recrea todas las miniaturas"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "N\/A"
+        }
+    }
+}
