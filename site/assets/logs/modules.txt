@@ -4,3 +4,13 @@
 2018-03-08 17:22:03	guest	http://localhost/sitio-git/http404/	Installed module 'AdminThemeUikit'
 2018-03-08 17:22:03	guest	http://localhost/sitio-git/http404/	Saved module info caches
 2018-03-08 17:22:20	guest	http://localhost/sitio-git/processwire/login/	Saved module 'ProcessProfile' config data
+2018-03-09 14:13:37	admin	http://localhost/sitio-git/processwire/module/?reset=1	Saved module info caches
+2018-03-09 14:16:41	admin	http://localhost/sitio-git/processwire/module/	Installed module 'ProcessLanguage'
+2018-03-09 14:16:42	admin	http://localhost/sitio-git/processwire/module/	Saved module info caches
+2018-03-09 14:16:55	admin	http://localhost/sitio-git/processwire/module/	Installed module 'ProcessLanguageTranslator'
+2018-03-09 14:16:55	admin	http://localhost/sitio-git/processwire/module/	Saved module info caches
+2018-03-09 14:16:55	admin	http://localhost/sitio-git/processwire/module/	Saved module 'LanguageSupport' config data
+2018-03-09 14:16:57	admin	http://localhost/sitio-git/processwire/module/	Saved module 'ProcessProfile' config data
+2018-03-09 14:16:57	admin	http://localhost/sitio-git/processwire/module/	Installed module 'LanguageSupport'
+2018-03-09 14:16:58	admin	http://localhost/sitio-git/processwire/module/	Saved module info caches
+2018-03-09 14:18:05	admin	http://localhost/sitio-git/processwire/setup/languages/add/	Saved module 'LanguageSupport' config data

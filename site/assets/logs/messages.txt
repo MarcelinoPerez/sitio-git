@@ -1,0 +1,1 @@
+2018-03-09 14:28:09	admin	http://localhost/sitio-git/processwire/profile/	Perfil guardado - admin_theme, language (WireLog)

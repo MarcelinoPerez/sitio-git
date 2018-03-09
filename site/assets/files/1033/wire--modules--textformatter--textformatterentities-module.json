@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "Codificador de entidad HTML (htmlspecialchars)"
+        },
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "La entidad codifica los signos comerciales, las comillas (simple y doble) y los signos mayor que \/ menos que usando htmlspecialchars (str, ENT_QUOTES). Se recomienda que utilices esto en todos los campos de text\/textarea excepto aquellos que usan un editor de texto enriquecido o un lenguaje de marcado como Markdown."
+        }
+    }
+}

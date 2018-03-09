@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Cambiar"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleccionar"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deseleccionar"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "M\u00e1s"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Haz clic y arrastre para mover"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papelera"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nombre del campo de p\u00e1gina a mostrar"
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Opcionalmente, puedes sustituir este valor en funci\u00f3n de cada plantilla en los \"ajustes avanzados\" de plantilla."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "N\u00famero de p\u00e1ginas para mostrar antes de la paginaci\u00f3n"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Velocidad de la animaci\u00f3n (en ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Esta es la velocidad a la que cada rama del \u00e1rbol de p\u00e1ginas se anima hacia arriba o hacia abajo. Los n\u00fameros m\u00e1s bajos son m\u00e1s r\u00e1pidos pero menos visibles. Para ninguna animaci\u00f3n especifique 0."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Error de Red, por favor prueba otra vez m\u00e1s tarde"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Error desconocido, por favor prueba otra vez m\u00e1s tarde"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Cada p\u00e1gina de una lista de p\u00e1ginas se identifica mediante una etiqueta, normalmente un t\u00edtulo o un t\u00edtulo. Puedes especificar el campo que se debe usar aqu\u00ed. Para especificar varios campos, separe cada nombre de campo con un espacio o utiliza su propia cadena de formato con nombres de campo rodeados en {par\u00e9ntesis}. Si el campo se resuelve en un objeto (como en otra p\u00e1gina), especifique la propiedad con un punto, es decir {anotherpage.title}. Tenga en cuenta que si el formato que especifique se resuelve en un valor en blanco, ProcessWire utilizar\u00e1 el campo \"nombre\" de la p\u00e1gina."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "El valor por defecto es %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Si se deja en el valor predeterminado, esta configuraci\u00f3n tambi\u00e9n se puede especificar en el array $config->pageList."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "\u00bfMostrar acciones de p\u00e1gina al hacer \"hover\"?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "De forma predeterminada, las acciones de una p\u00e1gina aparecen despu\u00e9s de un clic (al menos en el tema de administraci\u00f3n predeterminado). Para hacer que aparezcan en el lugar en su lugar, selecciona esta casilla."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Para m\u00e1s opciones aqu\u00ed, vea la configuraci\u00f3n de $config->pageList en \/wire\/config.php. Puedes copiar esas configuraciones en \/site\/config.php y anularlas."
+        }
+    }
+}

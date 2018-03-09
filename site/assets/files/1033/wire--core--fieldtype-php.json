@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Autouni\u00f3n"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Si est\u00e1 marcada, los datos de este campo se cargar\u00e1n con cada instancia de la p\u00e1gina, independientemente de si se utiliza en ese momento. Si no se selecciona, los datos se cargar\u00e1n bajo demanda y s\u00f3lo cuando se acceda espec\u00edficamente al campo."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Global"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Si est\u00e1 marcada, se requerir\u00e1 que TODAS las p\u00e1ginas tengan este campo. Se agregar\u00e1 autom\u00e1ticamente a cualquier grupo de campos\/plantillas que no lo tenga ya. Esto no significa que se requiera un valor en el campo, sino que el campo editable existir\u00e1 en todas las p\u00e1ginas."
+        }
+    }
+}

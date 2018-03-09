@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirmar"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Por favor, introduce una direcci\u00f3n e-mail v\u00e1lida"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Los correos electr\u00f3nicos que ha introducido no coinciden, por favor int\u00e9ntelo de nuevo."
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "\u00bfConfirmar correo electr\u00f3nico?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Cuando se selecciona, aparecer\u00e1n dos entradas de correo electr\u00f3nico y el usuario deber\u00e1 introducir su direcci\u00f3n de correo electr\u00f3nico dos veces para confirmarla. Esto ayuda a reducir la posibilidad de errores tipogr\u00e1ficos."
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Direcci\u00f3n E-Mail en formato v\u00e1lido"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "Email"
+        }
+    }
+}
